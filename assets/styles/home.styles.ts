@@ -42,7 +42,7 @@ export const createHomeStyles = (colors: ColorScheme) => {
             flex: 1,
         },
         title: {
-            fontSize: 32,
+            fontSize: 25,
             fontWeight: "700",
             letterSpacing: -1,
             marginBottom: 4,
