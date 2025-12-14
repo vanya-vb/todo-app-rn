@@ -21,7 +21,7 @@ export default function Header() {
                 setNewTodo("");
             } catch (err) {
                 console.log("Error adding a todo", err);
-                Alert.alert("Error", "Failed to add todo")
+                Alert.alert("Error", "Failed to add todo");
             }
         }
     };
